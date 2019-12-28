@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/fredericalix/yic_go_sdk/youritcity"
 	uuid "github.com/satori/go.uuid"
-	"github.com/youritcity/go-sdk/youritcity"
 
 	"github.com/spf13/cobra"
 )

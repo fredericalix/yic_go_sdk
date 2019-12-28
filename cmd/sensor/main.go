@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
+	yic "github.com/fredericalix/yic_go_sdk/youritcity"
 	"github.com/gofrs/uuid"
-	yic "github.com/youritcity/go-sdk/youritcity"
 )
 
 func failOnError(err error, msg string) {

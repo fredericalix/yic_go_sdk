@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/youritcity/go-sdk/youritcity"
+	"github.com/fredericalix/yic_go_sdk/youritcity"
 )
 
 // createCmd represents the create command

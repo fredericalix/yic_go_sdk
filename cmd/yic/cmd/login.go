@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/youritcity/go-sdk/youritcity"
+	"github.com/fredericalix/yic_go_sdk/youritcity"
 
 	"github.com/spf13/cobra"
 )

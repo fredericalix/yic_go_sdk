@@ -1,6 +1,6 @@
 package main
 
-import "github.com/youritcity/go-sdk/cmd/yic/cmd"
+import "github.com/fredericalix/yic_go_sdk/cmd/yic/cmd"
 
 func main() {
 	cmd.Execute()
